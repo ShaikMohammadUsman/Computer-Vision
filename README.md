@@ -1,6 +1,6 @@
                                             ## Computer-Vision ##
 
-Chapter-1 (Basics of OpenCV)
+Chapter-1 (Basics of Opencv)
 ===========================
 I tried to perform following Basic operations on the image which includes :
 
@@ -20,7 +20,7 @@ I tried to perform following Basic operations on the image which includes :
 --> Dilations(To Increase the Size of Foreground Objects)
 
 
-Chapter-2(Face and Eye Detection Using OpenCV)
+Chapter-2(Face and Eye Detection on Image)
 =============================================
 We performed Face and Eye Detection in Image using Haar Cascade Classifiers.
 
